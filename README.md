@@ -1,2 +1,2 @@
 # Web-Programming
-## Basics of Webprogramming using Python, JAVA Script and HTML.
+## Basics of Web programming using Python, JAVA Script and HTML.
